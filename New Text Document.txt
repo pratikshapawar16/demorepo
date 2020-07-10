@@ -6,3 +6,5 @@ file system dosenot have acid complaiance is not present.
 we can coonect any BI tool with hive warehouse.
 
 meta store : the bridge between ur actual data and metadatass
+
+ok
